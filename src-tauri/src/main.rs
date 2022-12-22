@@ -32,6 +32,7 @@ fn main() {
                     };                    
                     window.set_position(tauri::Position::Physical(position)).unwrap();
                     window.show().unwrap();
+                    window.set_focus().unwrap();
                 }
             }
             _ => {}
