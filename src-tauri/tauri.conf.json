@@ -7,7 +7,7 @@
     "withGlobalTauri": false
   },
   "package": {
-    "productName": "backlog-task-checker",
+    "productName": "task-checker",
     "version": "0.0.0"
   },
   "tauri": {
@@ -63,7 +63,7 @@
         "height": 600,
         "width": 400,
         "resizable": true,
-        "title": "backlog-task-checker",
+        "title": "task-checker",
         "decorations": false
       }
     ],
