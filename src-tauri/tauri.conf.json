@@ -61,6 +61,7 @@
       {
         "fullscreen": false,
         "height": 600,
+        "width": 400,
         "resizable": true,
         "title": "backlog-task-checker",
         "decorations": false
