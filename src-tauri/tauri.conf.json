@@ -63,7 +63,7 @@
         "height": 600,
         "resizable": true,
         "title": "backlog-task-checker",
-        "width": 800
+        "decorations": false
       }
     ],
     "systemTray": {
